@@ -1,0 +1,1 @@
+ <footer class="footer bg-dark text-center p-3 text-info"><a href="#" class="text-muted">Socialize</a> All rights reserved &copy; 2019</footer>
